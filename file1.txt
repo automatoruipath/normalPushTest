@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-it will present in the main branch
-=======
-<<<<<<< HEAD
-hii
-=======
-it will present in the main branch
->>>>>>> e373686 ( file1.txt has been modified)
-helllo ram
->>>>>>> newbranch
+it present in the main branch would be reflecing in new branch
