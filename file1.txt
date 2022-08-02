@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hii
+=======
+it will present in the main branch
+>>>>>>> e373686 ( file1.txt has been modified)
